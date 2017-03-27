@@ -1,0 +1,24 @@
+
+
+
+
+#home{
+	font-color: white;
+	position: relative;
+	background-color: white;
+	border-radius: 25px;
+	height: 20px;
+	padding: 20px;
+
+}
+
+ a{
+ 	text-decoration: none;
+ 	font-color: white;
+ 	font-size: 14px;
+	position:relative;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}

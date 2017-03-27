@@ -1,0 +1,54 @@
+
+body{
+    background-image: url("p.jpeg");
+   
+    
+}
+
+#pro{
+	font-color: white;
+	position: relative;
+	background-color: white;
+	border-radius: 25px;
+	
+	padding: 15px;
+
+}
+#feeed{
+       margin-left:25%;
+    padding:1px 16px;
+    height:1000px;
+    
+    
+}
+#fe{
+	align='center';
+    background-color: black;
+    margin-right: 260px;
+    margin-left: 260px;
+}
+
+
+
+ a{
+ 	text-decoration: none;
+ 	font-color: white;
+	position:relative;
+	font-size: 14px;
+	padding: 15px;
+}
+
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:25px;
+}
